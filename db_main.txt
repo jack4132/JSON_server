@@ -1,0 +1,409 @@
+{
+    "large": [
+        
+        {
+            "id": 0,
+            "name": "DC1",
+            "image": "/assets/leo_image/large_1.jpeg",
+            "size": "large",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."   
+        },
+        {
+            "id": 1,
+            "name": "DC2",
+            "image": "/assets/leo_image/large_2.jpeg",
+            "size": "large",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+        {
+            "id": 2,
+            "name": "DC3",
+            "image": "/assets/leo_image/large_3.jpeg",
+            "size": "large",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	 {
+            "id": 3,
+            "name": "DC4",
+            "image": "/assets/leo_image/large_4.jpeg",
+            "size": "large",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	 {
+            "id": 4,
+            "name": "DC5",
+            "image": "/assets/leo_image/large_5.jpeg",
+            "size": "large",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	 {
+            "id": 5,
+            "name": "DC6",
+            "image": "/assets/leo_image/large_6.jpeg",
+            "size": "large",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 6,
+            "name": "DC7",
+            "image": "/assets/leo_image/large_7.jpeg",
+            "size": "large",
+            "price": "Rs 1000",
+            "featured": true,
+            "description": "Shipping available all over India."
+        },
+	 {
+            "id": 7,
+            "name": "DC8",
+            "image": "/assets/leo_image/large_8.jpeg",
+            "size": "large",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        }
+	
+    ],
+    "medium": [
+        {
+            "id": 0,
+            "name": "DC9",
+            "image": "/assets/leo_image/medium_1.jpeg",
+            "size": "medium",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	 {
+            "id": 1,
+            "name": "DC10",
+            "image": "/assets/leo_image/medium_2.jpeg",
+            "size": "medium",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+        {
+            "id": 2,
+            "name": "DC11",
+            "image": "/assets/leo_image/medium_3.jpeg",
+            "size": "medium",
+            "price": "Rs 1000",
+            "featured": true,
+            "description": "Shipping available all over India."
+        }
+
+        ],
+    "small": [
+	{
+            "id": 0,
+            "name": "DC12",
+            "image": "/assets/leo_image/small_27.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 1,
+            "name": "DC13",
+            "image": "/assets/leo_image/small_28.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+        {
+            "id": 2,
+            "name": "DC14",
+            "image": "/assets/leo_image/small_1.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+        {
+            "id": 3,
+            "name": "DC15",
+            "image": "/assets/leo_image/small_2.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 4,
+            "name": "DC16",
+            "image": "/assets/leo_image/small_3.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 5,
+            "name": "DC17",
+            "image": "/assets/leo_image/small_4.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 6,
+            "name": "DC18",
+            "image": "/assets/leo_image/small_5.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 7,
+            "name": "DC19",
+            "image": "/assets/leo_image/small_6.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 8,
+            "name": "DC20",
+            "image": "/assets/leo_image/small_7.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 9,
+            "name": "DC21",
+            "image": "/assets/leo_image/small_8.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 10,
+            "name": "DC22",
+            "image": "/assets/leo_image/small_9.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 11,
+            "name": "DC23",
+            "image": "/assets/leo_image/small_10.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 12,
+            "name": "DC24",
+            "image": "/assets/leo_image/small_11.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 13,
+            "name": "DC25",
+            "image": "/assets/leo_image/small_12.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 14,
+            "name": "DC26",
+            "image": "/assets/leo_image/small_13.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 15,
+            "name": "DC27",
+            "image": "/assets/leo_image/small_14.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 16,
+            "name": "DC28",
+            "image": "/assets/leo_image/small_15.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 17,
+            "name": "DC29",
+            "image": "/assets/leo_image/small_16.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 18,
+            "name": "DC30",
+            "image": "/assets/leo_image/small_17.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 19,
+            "name": "DC31",
+            "image": "/assets/leo_image/small_18.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 20,
+            "name": "DC32",
+            "image": "/assets/leo_image/small_19.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 21,
+            "name": "DC33",
+            "image": "/assets/leo_image/small_20.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 22,
+            "name": "DC34",
+            "image": "/assets/leo_image/small_21.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 23,
+            "name": "DC35",
+            "image": "/assets/leo_image/small_22.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 24,
+            "name": "DC36",
+            "image": "/assets/leo_image/small_23.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 25,
+            "name": "DC37",
+            "image": "/assets/leo_image/small_24.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+	{
+            "id": 26,
+            "name": "DC38",
+            "image": "/assets/leo_image/small_25.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        },
+
+	{
+            "id": 27,
+            "name": "DC39",
+            "image": "/assets/leo_image/small_26.jpeg",
+            "size": "small",
+            "price": "Rs 1000",
+            "featured": false,
+            "description": "Shipping available all over India."
+        }
+     ],
+     "gift": [
+        {
+            "id": 0,
+            "designame": "Gift",
+            "image": "/assets/leo_image/gift.jpeg",
+            "label": "New",
+            "featured": true,
+            "description": "A perfect gift pack for your love one."        
+     }
+     ],
+
+
+
+    "comments": [
+        {
+            "id": 0,
+            "designame": "DC1",
+            "rating": 5,
+            "comment": "Beauty!",
+            "author": "John",
+            "date": "2012-10-16T17:57:28.556094Z"
+        }
+     ],
+    "cotton": [
+        {
+            "id": 0,
+            "name": "crochet set",
+            "image": "/assets/leo_image/Leo_cotton.jpeg",
+            "label": "New",
+            "price": "Rs 35/piece",
+            "featured": true,
+            "description": "Shipping all over India."
+        }
+     ],
+    "feather": [
+        {
+            "id": 0,
+            "name": "feather",
+            "image": "/assets/leo_image/Feathers.jpeg",
+            "label": "New",
+            "price": "Rs 230/pack of 20",
+            "featured": true,
+            "description": "Shipping all over India."
+        }
+    ]
+
+}
